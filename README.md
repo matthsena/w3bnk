@@ -6,6 +6,7 @@ W3Bnk is a payment platform based on Web 3.0, providing secure and low gas fee t
 - [ ] Transaction function 
 - [ ] Generate wallet for users don't want connect metamask
 - [ ] Wallet recovery function
+- [ ] Keep data after contract upgrades
 
 Built with Hardhat, try running some of the following tasks:
 
